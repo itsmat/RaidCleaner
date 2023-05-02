@@ -2,7 +2,7 @@
 Discord bot to clean up your discord server after a raid attack. Developed in Python using discord.py
 
 ## Features
-- [x] - [Delete raid channels](https://github.com/itsmat/RaidCleaner) - Ban all members.
+- [x] - [Delete raid channels](https://github.com/itsmat/RaidCleaner) - Delete raid channels created after date.
 
 ## ScreenShot
 ![Video](https://cdn.discordapp.com/attachments/1042473036407910410/1079049563995897936/RaidCleanerVideo.mp4)
